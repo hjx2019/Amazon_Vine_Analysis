@@ -3,7 +3,7 @@ Module 16
 
 ## Overview of the analysis
 
-Explain the purpose of this analysis.
+Through the analysis, determine if there is any bias toward favorable reviews from Vine members.
 
 ## Results
 
